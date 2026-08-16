@@ -1,0 +1,9 @@
+# No external dependencies required
+# Uses Python standard library only
+
+socket
+threading
+argparse
+queue
+time
+datetime
